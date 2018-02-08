@@ -1,6 +1,6 @@
 # MMP 200 Multimedia Design
 
-### Homework
+### Homework 1
 
 1. getbootstrap.com
 2. click download bootstrap.
