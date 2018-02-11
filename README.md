@@ -23,6 +23,16 @@ HW submission directions.
     *  **BROWSER - HTML PAGE** A screenshot of your site within Chrome, Firefox,
     or another browser with a visibly working Navbar and an original piece of
     CSS styling.
+    * HOW TO TAKE SCREENSHOTS ON AN **APPLE COMPUTER**:
+      1. Press `Shift-Command-4`. ...
+      2. Move the crosshair to where you want to start the screenshot, then drag to select an area. ...
+      3. When you've selected the area you want, release your mouse or trackpad button. ...
+      4. Find the screenshot as a `.png` file on your desktop.
+    * HOW TO TAKE SCREENSHOTS ON A **WINDOWS COMPUTER**:
+      1. Select the Start  button
+      2. type snipping tool in the search box
+      3. select Snipping Tool from the list of results.
+
 
 ---
 
