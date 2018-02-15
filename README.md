@@ -1,5 +1,10 @@
 # MMP 200 Multimedia Design
 
+### **UPDATE** 2-15-2018
+
+Video covering what we did in our 2/8 lab can be found here:
+https://youtu.be/S5n6VUvL_MM
+
 ### **UPDATE** 2-11-2018
 I have uploaded the files created during our 2/18 class into the
 folder `LAB-2-8-2018`, feel free to use this while trying to initiate
@@ -40,5 +45,5 @@ HW submission directions.
 ---
 **UX/UI READING**
 
-<u>Basics of UX</u> -- 
+<u>Basics of UX</u> --
 https://developers.google.com/web/fundamentals/design-and-ux/ux-basics/
