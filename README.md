@@ -1,5 +1,10 @@
 # MMP 200 Multimedia Design
 
+### Update 3-8-2018
+
+Midterm Proposal and Final Project Description/Grading Rubric has been added
+to the Course Repo under the `MidtermProposalAndFinalProject` folder.
+
 ### Homework 4
 
 *NOTE: Past homework assignments can be found in the "Homework-Assignments" folder, the landing

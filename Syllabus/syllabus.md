@@ -43,7 +43,7 @@ Grades will be decided based on timely submission, efforts and results of assign
 
 * Assignment 1: 0%
 * Assignments 2-6: 40%
-* Final Project::50%
+* Final Project: 50%
 * Class participation: 10%
 (Note - Different than distributed syllabus, but will give bonus if homework 1 screenshots are e-mailed to me)
 
