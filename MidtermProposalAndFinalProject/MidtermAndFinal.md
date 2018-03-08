@@ -33,6 +33,7 @@
 * Have ready to turn in on a physical thumb drive no later than **April 12th, 2018**.
 
 **Grading Rubric:**
+
 | Requirement                                                                   | Total Points |
 | ----------------------------------------------------------------------------- | ------------ |
 | Was Midterm Proposal turned in on time? **APRIL 12th**                        | 20           |
