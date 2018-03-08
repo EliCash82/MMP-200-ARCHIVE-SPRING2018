@@ -48,6 +48,6 @@
 
 *WARNINGS:*
 * If an image or any other media asset is presented in the midterm without any form
-of citation, it will be treated as if it has not been included.
+of citation, it will be treated as if it has not been included. (This is for non-original media only, original media created by student does not require citation)
 * If a quote is used (I.E. cutting and pasting from Wikipedia) and no citation given, I
 will know, and depending on the severity you may be given a grade of 0 on your Midterm... *PLAGIARISM IS NOT TOLERATED IN THIS CLASS!*
