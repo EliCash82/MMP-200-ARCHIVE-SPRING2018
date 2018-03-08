@@ -8,10 +8,8 @@
 ### Midterm Proposal
 
 * Create a landing page with a Bootstrap Navbar (Or vanilla CSS navbar/Foundation/etc).
-* Navbar should link to the other pages (expectations detailed below)
-* Total word count should equal 2,000 words or more
-* 14 screenshots or more should be included
-* Seven Pages (8 Pages Including Landing Index):
+* Navbar should link to the other pages, and appear on each page (expectations detailed below)
+* Seven HTML Pages (8 Pages Including Landing Index):
   1. *Challenge Statement Extended* -
   For the final project I will design a website that will ____________ (ex:)
   showcase my short films; display my original music; showcase my favorite
@@ -30,6 +28,9 @@
   with lab work/homework and how you will attempt to overcome them.
   7. *Works Cited* - A detailed list of resources you've used in your proposal.
   At least six sources are suggested.
+* Total word count should equal 2,000 words or more
+  * Approximately 350 words per post (Works Cited does not count toward final word count requirement)
+* 14 screenshots or more should be included
 * Have ready to turn in on a physical thumb drive no later than **April 12th, 2018**.
 
 **Grading Rubric:**
@@ -39,7 +40,7 @@
 | Was Midterm Proposal turned in on time? **APRIL 12th**                        | 20           |
 | Are all hyperlinks, bootstrap components, images included/working properly?   | 30/50        |
 | Quality of writing/composition (Proper grammar, proper citations, articulate) | 30/50        |
-
+| CSS Animation, bootstrap additions not covered in labs, video deliverables    | BONUS        |
 
 **Resources**
 
