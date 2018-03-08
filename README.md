@@ -3,7 +3,7 @@
 ### Update 3-8-2018
 
 Midterm Proposal and Final Project Description/Grading Rubric has been added
-to the Course Repo under the [`MidtermProposalAndFinalProject`](https://github.com/EliCash82/MMP-200/tree/master/MidtermProposalAndFinalProject) folder.
+to the Course Repo under the [`MidtermProposalAndFinalProject`](https://github.com/EliCash82/MMP-200/blob/master/MidtermProposalAndFinalProject/MidtermAndFinal.md) folder.
 
 ### Homework 4
 
