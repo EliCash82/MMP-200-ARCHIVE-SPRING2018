@@ -1,10 +1,12 @@
-# MMP 200 Multimedia Design |
+# MMP 200 Multimedia Design
 
 ### Homework 6 (Due 3-22-18)
 
-Option A: Watch RiP! A Remix Manifesto (https://www.youtube.com/watch?v=2EnX0vACj4Q) and write 350 words using this prompt: "Napster SHOULD or SHOULD NOT have been shut down because..."
-Option B: Watch Downloaded (http://www.netflix.com/WiMovie/70273268) and write 350 words using this prompt "Three examples of "fair use" in the distribution of media are..."
-Option C: Link me to an original video you have uploaded to YouTube and take a screenshot of
+Choose an option:
+
+**Option A**: Watch RiP! A Remix Manifesto (https://www.youtube.com/watch?v=2EnX0vACj4Q) and write 350 words using this prompt: "Napster SHOULD or SHOULD NOT have been shut down because..."
+**Option B**: Watch Downloaded (http://www.netflix.com/WiMovie/70273268) and write 350 words using this prompt "Three examples of "fair use" in the distribution of media are..."
+**Option C**: Link me to an original video you have uploaded to YouTube and take a screenshot of
 your Blender interface upon completion.
 
 Options A and B can be turned in as HTML files or TXT files.  No CSS needed for any option.
@@ -16,23 +18,6 @@ Create a single 1024X512 image as either psd (photoshop) or xcf (Gimp) file that
 
 Midterm Proposal and Final Project Description/Grading Rubric has been added
 to the Course Repo under the [`MidtermProposalAndFinalProject`](https://github.com/EliCash82/MMP-200/blob/master/MidtermProposalAndFinalProject/MidtermAndFinal.md) folder.
-
-### Homework 4
-
-*NOTE: Past homework assignments can be found in the "Homework-Assignments" folder, the landing
-page will only feature updates and current homework assignment.*
-
-**Read**:
-1. **Building Production Ready CSS Grid Layout** -  https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/
-2. **Responsive Design Frameworks** -  https://www.smashingmagazine.com/2014/02/responsive-design-frameworks-just-because-you-can-should-you/
-
-**Praxis**:
-Add at least 3 Bootstrap components to your Homework 3 assignment (i.e. Navbar, Carousel, Grid System)
-
-or
-
-**ALT HW PRAXIS**:
-Create a working instance of CSS Grid and integrate it into Homework 3 assignment
 
 ---
 
