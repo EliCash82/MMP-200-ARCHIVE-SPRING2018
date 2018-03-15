@@ -1,4 +1,4 @@
-# MMP 200 Multimedia Design
+# MMP 200 Multimedia Design |
 
 ### Homework 6 (Due 3-22-18)
 
