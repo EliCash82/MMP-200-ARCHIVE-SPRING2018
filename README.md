@@ -21,8 +21,9 @@ your Blender interface upon completion.
 
 Options A and B can be turned in as HTML files or TXT files.  No CSS needed for any option.
 
-### Homework 5 (Due 3-15-18)
-Create a single 1024X512 image as either psd (photoshop) or xcf (Gimp) file that contains transparency, one non-rectangular shape, and at least 5 layers.
+### Homework 1 - 5
+
+*See `Homework-Assignments` Folder*
 
 ### Update 3-8-2018
 
