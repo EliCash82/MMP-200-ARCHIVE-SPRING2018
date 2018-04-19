@@ -6,6 +6,8 @@ Find a website (Feel free to use one of the example sites you cited in your Midt
 
 Here is an Example:
 
+#### HTML
+
   ```HTML
 
 <h1> Color Swatch taken from WEBSITE.COM</h1>
@@ -16,6 +18,8 @@ Here is an Example:
     <h2>1. BLUE-GREEN</h2>
   </div>
   ```
+
+#### CSS
 
   ```CSS
 .color-a {
