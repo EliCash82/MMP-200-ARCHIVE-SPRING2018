@@ -1,18 +1,34 @@
 # MMP 200 Multimedia Design
 
-### Homework 7 (Due 3-29-18)
+### Homework 8; DUE 4-26-18
 
-Read:
-* https://www.interaction-design.org/literature/article/user-stories-as-a-ux-designer-i-want-to-embrace-agile-so-that-i-can-make-my-projects-user-centered
-* https://www.raywenderlich.com/162654/scrum-one-bring-scrum-one-person-operation
+Find a website (Feel free to use one of the example sites you cited in your Midterm Proposal) with a color scheme that you like. Identify at least 8 different colors.  Take a screenshot of the site and use Photoshop or Gimp 'color picker tool' for color identification.  Create an HTML page with an external CSS stylesheet where all eight colors are given a name.  Make a div for each of the colors, and submit by e-mail by due date.  
 
-Take a screenshot of a scrum board with at least 5 user stories.  This board should
-reflect progress you are making on your midterm proposal/final project.
+Here is an Example:
+
+  ```HTML
+
+<h1> Color Swatch taken from WEBSITE.COM</h1>
+
+<h2>COLORS</h2>
+
+  <div color-a>
+    <h2>1. BLUE-GREEN</h2>
+  </div>
+  ```
+
+  ```CSS
+.color-a {
+  background-color: #6AFFB1;
+  color: white;
+}
+
+  ```
 
 
 
 
-### Homework 1 - 6
+### Homework 1 - 7
 
 *See `Homework-Assignments` Folder*
 
