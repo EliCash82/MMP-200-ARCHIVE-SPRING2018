@@ -12,7 +12,7 @@ Here is an Example:
 
 <h2>COLORS</h2>
 
-  <div color-a>
+  <div class="color-a">
     <h2>1. BLUE-GREEN</h2>
   </div>
   ```
