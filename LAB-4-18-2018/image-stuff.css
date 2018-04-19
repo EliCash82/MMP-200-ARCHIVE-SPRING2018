@@ -1,0 +1,19 @@
+.supercontainer {
+  background-color: #b2b2b2;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+body {
+  /*background-color: yellow;*/
+  /*background-image:url("rocky.jpg");*/
+}
+
+.hovercontainer:hover {
+  background-color: #b2b2b2;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 5px solid red;
+}
+
+.hovercontainer {
+  border: 5px solid blue;
+}
