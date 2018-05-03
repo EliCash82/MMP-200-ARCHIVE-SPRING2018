@@ -52,3 +52,41 @@
 of citation, it will be treated as if it has not been included. (This is for non-original media only, original media created by student does not require citation)
 * If a quote is used (I.E. cutting and pasting from Wikipedia) and no citation given, I
 will know, and depending on the severity, you may be given a grade of 0 on your Midterm... *PLAGIARISM IS NOT TOLERATED IN THIS CLASS!*
+
+---
+
+### Final Project
+
+* **SITE MUST BE RESPONSIVE**: This means you must either utilize the grid
+system provided by twitter bootstrap or use another option like *Foundation* or
+*CSS Grid*
+
+* **SITE MUST HAVE UNIQUE EXTERNAL CSS STYLESHEET**: You must construct your own
+unique CSS stylesheet.
+
+* **SITE MUST HAVE UNIQUE COLOR SCHEME**: On your unique stylesheet I want
+to see that you understand *HEX CODES* and the importance of a standardized
+color scheme.  This can be minimal (You can just use black and white, but I
+  need to see)
+
+* **SITE MUST USE AT LEAST TWO DIFFERENT FONTS**: You could have one font for
+headers and another font for the body text... it really doesn't matter, I just
+need to see that you can integrate multiple fonts into your final product.
+
+* **SITE MUST HAVE IMAGES**: Images should be present, and their placement should
+make sense.  Full credit requires an understanding of proper aspect ratios.  Any
+images that are not original must link back to their original source.
+
+* **SITE MUST HAVE AT MINIMUM 4 HTML PAGES**: And yes, all four pages should
+have unique content.
+
+* **SITE SHOULD HAVE A UNIQUE LOGO**: This can be big or small, just a unique
+font or a unique drawing/image.  No logos should use characters or ideas
+under copyright.
+
+* **SITE SHOULD BE ENJOYABLE TO READ**: I will not be grading the writing as
+harshly as the midterm, however, I will be looking for correct spelling and will
+be checking to make sure what is written on your site is not plagarized.  I will
+not give an exact word count, but if you have less than 1000 words you can bet
+that you would be wise to write more (unless you've gone the extra mile with unique
+image, audio, or video assets).
