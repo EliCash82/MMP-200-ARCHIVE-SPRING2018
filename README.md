@@ -1,5 +1,10 @@
 # MMP 200 Multimedia Design
 
+### Final Project; DUE 5-22-18
+
+Must be e-mailed to me by due date.  No late finals will be accepted.  For all
+requirements see <a href="https://github.com/EliCash82/MMP-200/blob/master/MidtermProposalAndFinalProject/MidtermAndFinal.md">FINAL REQUIREMENTS</a>
+
 ### Homework 8; DUE 4-26-18
 
 Find a website (Feel free to use one of the example sites you cited in your Midterm Proposal) with a color scheme that you like. Identify at least 8 different colors.  Take a screenshot of the site and use Photoshop or Gimp 'color picker tool' for color identification.  Create an HTML page with an external CSS stylesheet where all eight colors are given a name.  Make a div for each of the colors, and submit by e-mail by due date.  

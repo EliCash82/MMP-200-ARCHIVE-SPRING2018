@@ -38,8 +38,8 @@
 | Requirement                                                                   | Total Points |
 | ----------------------------------------------------------------------------- | ------------ |
 | Was Midterm Proposal turned in on time? **APRIL 12th**                        | 20           |
-| Are all hyperlinks, bootstrap components, images included/working properly?   | 30/50        |
-| Quality of writing/composition (Proper grammar, proper citations, articulate) | 30/50        |
+| Are all hyperlinks, bootstrap components, images included/working properly?   | 50        |
+| Quality of writing/composition (Proper grammar, proper citations, articulate) | 50        |
 | CSS Animation, bootstrap additions not covered in labs, video deliverables    | BONUS        |
 
 **Resources**
